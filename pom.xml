@@ -8,6 +8,28 @@
     <artifactId>ipfs_api</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <name>ipfs</name>
+    <url>https://github.com/lhf-programer/ipfs_api</url>
+
+    <issueManagement>
+        <url>https://github.com/lhf-programer/ipfs_api/issues</url>
+        <system>GitHub Issues</system>
+    </issueManagement>
+
+    <scm>
+        <url>https://github.com/lhf-programer/ipfs_api</url>
+        <connection>scm:git:git://github.com/lhf-programer/ipfs_api.git</connection>
+        <developerConnection>scm:git:git@github.com:lhf-programer/ipfs_api.git</developerConnection>
+    </scm>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://github.com/lhf-programer/ipfs_api/blob/master/LICENSE</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
     <repositories>
         <repository>
             <id>public</id>

@@ -1,4 +1,4 @@
-package api;
+package com.ipfs.api;
 
 import io.ipfs.api.IPFS;
 import io.ipfs.api.MerkleNode;

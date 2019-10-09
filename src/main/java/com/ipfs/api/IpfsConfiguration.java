@@ -1,4 +1,4 @@
-package api;
+package com.ipfs.api;
 
 /**
  * @Classname IpfsConfiguration

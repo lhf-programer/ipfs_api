@@ -1,4 +1,4 @@
-package api;
+package com.ipfs.api;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

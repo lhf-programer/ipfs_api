@@ -1,4 +1,4 @@
 # Project exclude paths
 /target/
-/*.iml
+/ipfs_api.iml
 /.idea/
